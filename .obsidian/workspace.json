@@ -1,0 +1,376 @@
+{
+  "main": {
+    "id": "8da422d2a75dbf07",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3f127b930ecfeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b108c073df005b88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "f86d224d9ca78ac4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "5bdcb8fcdae45737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/9. Hunyadi Matyas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15bc4024d99c159c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/9. Hunyadi Matyas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a4e97c81d78d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/7. IV. Béla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66cf342a5686e0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/2. Kereszténység.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c0c0aff6ad2e014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/1. Athéni Demokrácia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd46e1e8b18d2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/4. Az uradalom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79e6aa33eff19c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tori/5. A középkori város.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "470fde6353e32ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/6. Csokonai Vitéz Mihály lírája.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b89e38b682889e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/1. Biblia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84bd40e9349df626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/9. Bánk bán.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb1aa381f21c31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/7. Berzsenyi Dániel elégiái.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0498ed6d3bd68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/10.   Nemzet- és történelemszemlélet Kölcsey Ferenc lírájában (Zrínyi dala és Zrínyi második éneke).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65c07fa0e0fffd9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/11. Himnusz Szózat összehasonlító elemzése.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5575cdaf582d2e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/10.   Nemzet- és történelemszemlélet Kölcsey Ferenc lírájában (Zrínyi dala és Zrínyi második éneke).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3471fc2629908439",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240406175134.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7be74370405bbb2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "66cb751025272cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22ddaeb36685a862",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "530b41a6d892da87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c025da3c9af8c795",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ad52d5040169020",
+    "type": "split",
+    "children": [
+      {
+        "id": "300dfc85c0f82ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425bfb17104763f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20240406175134.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862d4c27eca4734c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20240406175134.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ead46557343c45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08ef99f1a4180d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20240406175134.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3471fc2629908439",
+  "lastOpenFiles": [
+    "Pasted image 20240405205946.png",
+    "Pasted image 20240325180851.png",
+    "Irodalom/8. Puskin Anyegin.md",
+    "Irodalom/5. Zrínyi Miklós Szigeti veszedelem.md",
+    "Irodalom/1. Biblia.md",
+    "Irodalom/2. Szophoklész Antigoné.md",
+    "Irodalom/3. Angol Színház, Rómeó és Juliska.md",
+    "Irodalom/4. Moliére Tartuffe.md",
+    "Irodalom/6. Csokonai Vitéz Mihály lírája.md",
+    "Irodalom/11. Himnusz Szózat összehasonlító elemzése.md",
+    "Nyelvtan/1. A kommunikáció fogalma, tényezői, funkciói.md",
+    "Nyelvtan/2. Médiaműfajok. sajtóműfajok.md",
+    "Nyelvtan/3. Beszéd és a nyelv.md",
+    "Nyelvtan/4. Mássalhangzók és szabályok.md",
+    "Irodalom/7. Berzsenyi Dániel elégiái.md",
+    "Irodalom/9. Bánk bán.md",
+    "Untitled.md",
+    "Irodalom/10.   Nemzet- és történelemszemlélet Kölcsey Ferenc lírájában (Zrínyi dala és Zrínyi második éneke).md",
+    "Irodalom/12. Témakör Portrék - Vörösmarty Mihály.md",
+    "Pasted image 20240406175134.png",
+    "Tori/1. Athéni Demokrácia.md",
+    "Tori/2. Kereszténység.md",
+    "Tori/3. Mohamed.md",
+    "Tori/4. Az uradalom.md",
+    "Tori/5. A középkori város.md",
+    "Tori/6. Géza és István.md",
+    "Tori/7. IV. Béla.md",
+    "Tori/8. Károly Róbert.md",
+    "Nyelvtan",
+    "nigga",
+    "Tori",
+    "Irodalom",
+    "Mohamed",
+    "Pasted image 20240103091259.png",
+    "Pasted image 20240104095837.png",
+    "MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_ 1.jpg",
+    "MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_.jpg"
+  ]
+}
